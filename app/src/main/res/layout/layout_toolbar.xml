@@ -14,7 +14,7 @@
         android:textAppearance="@android:style/TextAppearance.Theme"
         android:textStyle="bold"
         android:textSize="18sp"
-        android:text="WhatsDirect - without saving number"
+        android:text="EzToChat - without saving number"
         android:textColor="@android:color/white" />
 
     <ImageView

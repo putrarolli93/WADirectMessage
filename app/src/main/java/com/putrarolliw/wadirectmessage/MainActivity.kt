@@ -103,7 +103,7 @@ class MainActivity : AppCompatActivity() {
     private fun shareApp() {
         val shareIntent = Intent(Intent.ACTION_SEND)
         shareIntent.type = "text/plain"
-        shareIntent.putExtra(Intent.EXTRA_SUBJECT, "WhatsApp Direct Message")
+        shareIntent.putExtra(Intent.EXTRA_SUBJECT, "EzToChat Direct Message")
         var shareMessage =
             "\nStart a new WhatsApp conversation without saving the contact number\n"
         shareMessage =
